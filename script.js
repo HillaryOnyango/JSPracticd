@@ -16,14 +16,14 @@
 // function getRandomNumber (){
 //     return Math.floor(Math.random()*colors.length); 
 // }
-let count =0;
-const value=document.querySelector('#value');
-const btns=document.querySelectorAll(".btn");
+// let count =0;
+// const value=document.querySelector('#value');
+// const btns=document.querySelectorAll(".btn");
 
-btns.forEach(function(btn){ 
-btn.addEventListener('click',function(e){
-console.log(e.currentTarget.classList);     
-if(styles.contains)
-});
+// btns.forEach(function(btn){ 
+// btn.addEventListener('click',function(e){
+// console.log(e.currentTarget.classList);     
+// if(styles.contains)
+// });
 
-});
+// });
